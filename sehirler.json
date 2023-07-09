@@ -1,0 +1,569 @@
+[
+  {
+    "cityName": "Adana",
+    "plateCode": "01",
+    "neighbours": ["Mersin", "Osmaniye", "Hatay", "Kahramanmaraş", "Niğde", "Kayseri"],
+    "latitude" : 36.9975236,
+    "longitude" : 35.2056667
+  },
+  {
+    "cityName": "Adıyaman",
+    "plateCode": "02",
+    "neighbours": ["Gaziantep", "Şanlıurfa", "Diyarbakır", "Malatya","Kahramanmaraş"],
+    "latitude" :37.764751,
+    "longitude":38.278561
+  },
+  {
+    "cityName": "Afyonkarahisar",
+    "plateCode": "03",
+    "neighbours": ["Kütahya", "Uşak", "Denizli", "Burdur", "Isparta", "Eskişehir", "Konya"],
+    "latitude":38.750714,
+    "longitude":30.556692
+  },
+  {
+    "cityName": "Ağrı",
+    "plateCode": "04",
+    "neighbours": ["Iğdır", "Kars", "Erzurum", "Muş", "Van"],
+    "latitude":39.626922,
+    "longitude":43.021596
+  },
+  {
+    "cityName": "Amasya",
+    "plateCode": "05",
+    "neighbours": ["Tokat", "Samsun", "Çorum", "Yozgat"],
+    "latitude":40.64991,
+    "longitude":35.83532
+  },
+  {
+    "cityName": "Ankara",
+    "plateCode": "06",
+    "neighbours": ["Kırıkkale", "Aksaray", "Kırşehir", "Eskişehir", "Bolu", "Çankırı", "Konya"],
+    "latitude":39.92077,
+    "longitude":32.85411
+  },
+  {
+    "cityName": "Antalya",
+    "plateCode": "07",
+    "neighbours": ["Muğla", "Burdur", "Isparta", "Konya", "Mersin", "Karaman"],
+    "latitude":36.88414,
+    "longitude":30.70563
+  },
+  {
+    "cityName": "Artvin",
+    "plateCode": "08",
+    "neighbours": ["Rize", "Erzurum", "Ardahan"],
+    "latitude":41.110481,
+    "longitude":42.702171
+  },
+  {
+    "cityName": "Aydın",
+    "plateCode": "09",
+    "neighbours": ["Denizli", "Muğla", "İzmir", "Manisa"],
+    "latitude":37.856041,
+    "longitude":27.841631
+  },
+  {
+    "cityName": "Balıkesir",
+    "plateCode": "10",
+    "neighbours": ["Çanakkale", "Bursa", "Manisa", "İzmir", "Kütahya"],
+    "latitude":39.648369,
+    "longitude":27.88261
+  },
+  {
+    "cityName": "Bilecik",
+    "plateCode": "11",
+    "neighbours": ["Eskişehir", "Kütahya", "Bursa", "Sakarya", "Bolu"],
+    "latitude":40.056656,
+    "longitude":30.066524
+  },
+  {
+    "cityName": "Bingöl",
+    "plateCode": "12",
+    "neighbours": ["Tunceli", "Elazığ", "Muş", "Erzurum","Diyarbakır"],
+    "latitude":39.062635,
+    "longitude":40.76961
+  },
+  {
+    "cityName": "Bitlis",
+    "plateCode": "13",
+    "neighbours": ["Siirt", "Batman", "Muş", "Van","Ağrı"],
+    "latitude":38.393799,	
+    "longitude":42.12318
+  },
+  {
+    "cityName": "Bolu",
+    "plateCode": "14",
+    "neighbours": ["Düzce", "Zonguldak", "Karabük", "Ankara", "Eskişehir", "Sakarya","Çankırı", "Bilecik"],
+    "latitude":40.575977,
+    "longitude":31.578809
+  },
+  {
+    "cityName": "Burdur",
+    "plateCode": "15",
+    "neighbours": ["Denizli", "Afyonkarahisar", "Isparta", "Antalya", "Muğla"],
+    "latitude":37.461267,
+    "longitude":30.066524
+  },
+  {
+    "cityName": "Bursa",
+    "plateCode": "16",
+    "neighbours": ["Balıkesir", "Kocaeli", "Sakarya", "Bilecik", "Yalova","Kütahya"],
+    "latitude":	40.266864,
+    "longitude":29.063448
+  },
+  {
+    "cityName": "Çanakkale",
+    "plateCode": "17",
+    "neighbours": ["Balıkesir", "Tekirdağ", "Edirne"],
+    "latitude":40.155312,
+    "longitude":26.41416
+  },
+  {
+    "cityName": "Çankırı",
+    "plateCode": "18",
+    "neighbours": ["Bolu", "Kırıkkale", "Çorum", "Karabük", "Ankara", "Kastamonu"],
+    "latitude":40.601343,
+    "longitude":33.613421
+  },
+  {
+    "cityName": "Çorum",
+    "plateCode": "19",
+    "neighbours": ["Amasya", "Samsun", "Yozgat", "Kırıkkale", "Çankırı", "Kastamonu","Sinop"],
+    "latitude":40.550556,
+    "longitude":34.955556
+  },
+  {
+    "cityName": "Denizli",
+    "plateCode": "20",
+    "neighbours": ["Muğla", "Burdur", "Aydın", "Uşak", "Manisa", "Afyonkarahisar"],
+    "latitude":	37.77652,
+    "longitude":29.08639
+  },
+  {
+    "cityName": "Diyarbakır",
+    "plateCode": "21",
+    "neighbours": ["Mardin", "Batman", "Elazığ", "Malatya", "Adıyaman", "Şanlıurfa","Bingöl", "Muş"],
+    "latitude":	37.91441,
+    "longitude":40.230629
+  },
+  {
+    "cityName": "Edirne",
+    "plateCode": "22",
+    "neighbours": ["Kırklareli", "Tekirdağ", "Çanakkale"],
+    "latitude":41.681808,
+    "longitude":26.562269
+  },
+  {
+    "cityName": "Elazığ",
+    "plateCode": "23",
+    "neighbours": ["Malatya", "Diyarbakır", "Tunceli", "Bingöl"],
+    "latitude":38.680969,
+    "longitude":39.226398
+  },
+  {
+    "cityName": "Erzincan",
+    "plateCode": "24",
+    "neighbours": ["Erzurum", "Bayburt", "Gümüşhane", "Giresun", "Sivas", "Tunceli","Bingöl","Malatya"],
+    "latitude":39.75,
+    "longitude":39.5
+  },
+  {
+    "cityName": "Erzurum",
+    "plateCode": "25",
+    "neighbours": ["Ağrı", "Kars", "Ardahan", "Artvin", "Rize", "Bayburt", "Erzincan","Bingöl","Muş"],
+    "latitude":39.9,
+    "longitude":41.27
+  },
+  {
+    "cityName": "Eskişehir",
+    "plateCode": "26",
+    "neighbours": ["Kütahya", "Bilecik", "Bolu", "Ankara", "Konya", "Afyonkarahisar"],
+    "latitude":39.776667,
+    "longitude":30.520556
+  },
+  {
+    "cityName": "Gaziantep",
+    "plateCode": "27",
+    "neighbours": ["Kilis", "Hatay", "Osmaniye", "Adıyaman", "Şanlıurfa", "Kahramanmaraş"],
+    "latitude":37.06622,
+    "longitude":37.38332
+  },
+  {
+    "cityName": "Giresun",
+    "plateCode": "28",
+    "neighbours": ["Ordu", "Trabzon", "Gümüşhane", "Erzincan", "Sivas"],
+    "latitude":40.912811,
+    "longitude":38.38953
+  },
+  {
+    "cityName": "Gümüşhane",
+    "plateCode": "29",
+    "neighbours": ["Trabzon", "Bayburt", "Erzincan", "Giresun"],
+    "latitude":40.438588,
+    "longitude":39.508556
+  },
+  {
+    "cityName": "Hakkâri",
+    "plateCode": "30",
+    "neighbours": ["Van", "Şırnak"],
+    "latitude":37.583333,
+    "longitude":43.733333
+  },
+  {
+    "cityName": "Hatay",
+    "plateCode": "31",
+    "neighbours": ["Osmaniye", "Gaziantep", "Adana"],
+    "latitude":36.401849,
+    "longitude":36.34981
+  },
+  {
+    "cityName": "Isparta",
+    "plateCode": "32",
+    "neighbours": ["Burdur", "Afyonkarahisar", "Antalya", "Konya"],
+    "latitude":37.764771,
+    "longitude":30.556561
+  },
+  {
+    "cityName": "Mersin",
+    "plateCode": "33",
+    "neighbours": ["Adana", "Niğde", "Karaman", "Konya", "Antalya"],
+    "latitude":36.8,
+    "longitude":34.633333
+  },
+  {
+    "cityName": "İstanbul",
+    "plateCode": "34",
+    "neighbours": ["Tekirdağ", "Kocaeli","Kırklareli"],
+    "latitude":41.00527,
+    "longitude":28.97696
+  },
+  {
+    "cityName": "İzmir",
+    "plateCode": "35",
+    "neighbours": ["Aydın", "Manisa", "Balıkesir"],
+    "latitude":38.41885,
+    "longitude":27.12872
+  },
+  {
+    "cityName": "Kars",
+    "plateCode": "36",
+    "neighbours": ["Ağrı", "Iğdır", "Erzurum", "Ardahan"],
+    "latitude":40.616667,
+    "longitude":43.1
+  },
+  {
+    "cityName": "Kastamonu",
+    "plateCode": "37",
+    "neighbours": ["Sinop", "Çankırı", "Çorum", "Bartın", "Karabük"],
+    "latitude":	41.38871,
+    "longitude":33.78273
+  },
+  {
+    "cityName": "Kayseri",
+    "plateCode": "38",
+    "neighbours": ["Sivas", "Nevşehir", "Adana", "Kahramanmaraş", "Nigde", "Yozgat"],
+    "latitude":	38.73122,
+    "longitude":35.478729
+  },
+  {
+    "cityName": "Kırklareli",
+    "plateCode": "39",
+    "neighbours": ["Tekirdağ", "Edirne"],
+    "latitude":41.733333,
+    "longitude":27.216667
+  },
+  {
+    "cityName": "Kırşehir",
+    "plateCode": "40",
+    "neighbours": ["Aksaray", "Ankara", "Nevşehir", "Yozgat", "Aksaray", "Kırıkkale"],
+    "latitude":39.14249,
+    "longitude":34.17091
+  },
+  {
+    "cityName": "Kocaeli",
+    "plateCode": "41",
+    "neighbours": ["İstanbul", "Yalova", "Bursa", "Sakarya"],
+    "latitude":	40.85327,
+    "longitude":29.88152
+  },
+  {
+    "cityName": "Konya",
+    "plateCode": "42",
+    "neighbours": ["Aksaray", "Ankara", "Eskişehir", "Afyonkarahisar", "Isparta", "Antalya", "Mersin", "Niğde", "Karaman"],
+    "latitude":37.866667,
+    "longitude":32.483333
+  },
+  {
+    "cityName": "Kütahya",
+    "plateCode": "43",
+    "neighbours": ["Uşak", "Afyonkarahisar", "Eskişehir", "Bilecik", "Bursa", "Balıkesir", "Manisa"],
+    "latitude":	39.416667,
+    "longitude":29.983333
+  },
+  {
+    "cityName": "Malatya",
+    "plateCode": "44",
+    "neighbours": ["Kahramanmaraş", "Adıyaman", "Elazığ", "Diyarbakır","Tunceli","Erzincan","Sivas"],
+    "latitude":	38.35519,
+    "longitude":38.30946
+  },
+  {
+    "cityName": "Manisa",
+    "plateCode": "45",
+    "neighbours": ["İzmir", "Balıkesir", "Kütahya", "Uşak", "Denizli", "Aydın"],
+    "latitude":38.619099,
+    "longitude":27.428921
+  },
+  {
+    "cityName": "Kahramanmaraş",
+    "plateCode": "46",
+    "neighbours": ["Adana", "Osmaniye", "Gaziantep", "Adıyaman","Malatya", "Kayseri", "Sivas"],
+    "latitude":37.585831,
+    "longitude":36.937149
+  },
+  {
+    "cityName": "Mardin",
+    "plateCode": "47",
+    "neighbours": ["Şırnak", "Siirt", "Batman","Diyarbakır","Şanlıurfa"],
+    "latitude":37.321163,
+    "longitude":40.724477
+  },
+  {
+    "cityName": "Muğla",
+    "plateCode": "48",
+    "neighbours": ["Aydın", "Denizli", "Burdur", "Antalya"],
+    "latitude":	37.215278,
+    "longitude":28.363611
+  },
+  {
+    "cityName": "Muş",
+    "plateCode": "49",
+    "neighbours": ["Bingöl", "Diyarbakır", "Bitlis", "Ağrı", "Erzurum","Ağrı"],
+    "latitude":38.946189,
+    "longitude":41.753893
+  },
+  {
+    "cityName": "Nevşehir",
+    "plateCode": "50",
+    "neighbours": ["Aksaray", "Kırşehir", "Yozgat", "Kayseri", "Niğde"],
+    "latitude":38.69394,
+    "longitude":34.685651
+  },
+  {
+    "cityName": "Niğde",
+    "plateCode": "51",
+    "neighbours": ["Kayseri", "Nevşehir", "Aksaray", "Konya", "Mersin", "Adana"],
+    "latitude":	37.966667,
+    "longitude":34.683333
+  },
+  {
+    "cityName": "Ordu",
+    "plateCode": "52",
+    "neighbours": ["Giresun", "Sivas", "Tokat", "Samsun"],
+    "latitude":	40.983879,
+    "longitude":37.876411
+  },
+  {
+    "cityName": "Rize",
+    "plateCode": "53",
+    "neighbours": ["Artvin", "Erzurum", "Trabzon", "Bayburt"],
+    "latitude":41.02005,
+    "longitude":40.523449
+  },
+  {
+    "cityName": "Sakarya",
+    "plateCode": "54",
+    "neighbours": ["Düzce", "Bolu", "Bilecik", "Bursa", "Kocaeli"],
+    "latitude":40.693997,
+    "longitude":30.435763
+  },
+  {
+    "cityName": "Samsun",
+    "plateCode": "55",
+    "neighbours": ["Ordu", "Tokat", "Amasya", "Çorum", "Sinop"],
+    "latitude":	41.292782,
+    "longitude": 36.33128
+  },
+  {
+    "cityName": "Siirt",
+    "plateCode": "56",
+    "neighbours": ["Bitlis", "Batman", "Mardin", "Şırnak","Van"],
+    "latitude":37.933333,
+    "longitude":41.95
+  },
+  {
+    "cityName": "Sinop",
+    "plateCode": "57",
+    "neighbours": ["Samsun", "Çorum", "Kastamonu"],
+    "latitude":	42.02314,
+    "longitude":	35.153069
+  },
+  {
+    "cityName": "Sivas",
+    "plateCode": "58",
+    "neighbours": ["Kayseri", "Yozgat", "Tokat", "Ordu", "Giresun", "Erzincan", "Malatya","Kahramanmaraş"],
+    "latitude":39.747662,
+    "longitude":37.017879
+  },
+  { 
+    "cityName": "Tekirdağ",
+    "plateCode": "59",
+    "neighbours": ["Edirne", "Kırklareli", "Çanakkale", "İstanbul"],
+    "latitude":40.983333,
+    "longitude":27.516667
+  },
+  {
+    "cityName": "Tokat",
+    "plateCode": "60",
+    "neighbours": ["Sivas", "Amasya", "Samsun", "Ordu","Yozgat"],
+    "latitude":40.316667,
+    "longitude":36.55
+  },
+  {
+    "cityName": "Trabzon",
+    "plateCode": "61",
+    "neighbours": ["Giresun", "Gümüşhane", "Bayburt", "Rize"],
+    "latitude":	41.00145,
+    "longitude":39.7178
+  },
+  {
+    "cityName": "Tunceli",
+    "plateCode": "62",
+    "neighbours": ["Elazığ","Bingöl", "Erzincan"],
+    "latitude":	39.307355,
+    "longitude":39.438778
+  },
+  {
+    "cityName": "Şanlıurfa",
+    "plateCode": "63",
+    "neighbours": ["Diyarbakır", "Adıyaman", "Gaziantep", "Mardin"],
+    "latitude":37.159149,
+    "longitude":38.796909
+  },
+  {
+    "cityName": "Uşak",
+    "plateCode": "64",
+    "neighbours": ["Manisa", "Denizli", "Afyonkarahisar", "Kütahya"],
+    "latitude":38.682301,
+    "longitude":29.40819
+  },
+  {
+    "cityName": "Van",
+    "plateCode": "65",
+    "neighbours": ["Bitlis", "Siirt", "Hakkari", "Ağrı"],
+    "latitude":	38.48914,
+    "longitude":43.40889
+  },
+  {
+    "cityName": "Yozgat",
+    "plateCode": "66",
+    "neighbours": ["Sivas", "Kayseri", "Nevşehir", "Kırşehir","Kırıkkale", "Çorum","Tokat"],
+    "latitude":39.818081,
+    "longitude":34.81469
+  },
+  {
+    "cityName": "Zonguldak",
+    "plateCode": "67",
+    "neighbours": ["Bolu", "Karabük", "Bartın", "Düzce"],
+    "latitude":	41.456409,
+    "longitude":31.798731
+  },
+  {
+    "cityName": "Aksaray",
+    "plateCode": "68",
+    "neighbours": ["Konya", "Nevşehir", "Kırşehir", "Niğde"],
+    "latitude":38.36869,
+    "longitude":34.03698
+  },
+  {
+    "cityName": "Bayburt",
+    "plateCode": "69",
+    "neighbours": ["Trabzon", "Gümüşhane", "Erzurum", "Erzincan","Rize"],
+    "latitude" : 40.255169,
+    "longitude" :40.22488
+  },
+  {
+    "cityName": "Karaman",
+    "plateCode": "70",
+    "neighbours": ["Konya", "Mersin", "Aksaray"],
+    "latitude" : 	37.17593,
+    "longitude" : 33.228748
+  },
+  {
+    "cityName": "Kırıkkale",
+    "plateCode": "71",
+    "neighbours": ["Ankara", "Çankırı", "Çorum", "Yozgat", "Kırşehir"],
+    "latitude" : 	39.846821,
+    "longitude" : 33.515251
+  },
+  {
+    "cityName": "Batman",
+    "plateCode": "72",
+    "neighbours": ["Siirt", "Mardin", "Diyarbakır","Muş", "Bitlis"],
+    "latitude" : 37.881168,
+    "longitude" : 41.13509
+  },
+  {
+    "cityName": "Şırnak",
+    "plateCode": "73",
+    "neighbours": ["Siirt", "Mardin", "Hakkari","Van"],
+    "latitude" : 37.418748,
+    "longitude" : 42.491834
+  },
+  {
+    "cityName": "Bartın",
+    "plateCode": "74",
+    "neighbours": ["Karabük", "Kastamonu", "Zonguldak"],
+    "latitude" : 	41.581051,
+    "longitude" : 32.460979
+  },
+  {
+    "cityName": "Ardahan",
+    "plateCode": "75",
+    "neighbours": ["Kars", "Artvin", "Erzurum"],
+    "latitude" : 41.110481,
+    "longitude" : 42.702171
+  },
+  {
+    "cityName": "Iğdır",
+    "plateCode": "76",
+    "neighbours": ["Kars", "Ağrı"],
+    "latitude" : 39.887984,
+    "longitude" : 44.004836
+  },
+  {
+    "cityName": "Yalova",
+    "plateCode": "77",
+    "neighbours": ["Bursa", "Kocaeli"],
+    "latitude" : 	40.65,
+    "longitude" : 29.266667
+  },
+  {
+    "cityName": "Karabük",
+    "plateCode": "78",
+    "neighbours": ["Bolu", "Çankırı", "Ankara", "Zonguldak", "Bartın", "Kastamonu"],
+    "latitude" : 41.2061,
+    "longitude" : 32.62035
+  },
+  {
+    "cityName": "Kilis",
+    "plateCode": "79",
+    "neighbours": ["Gaziantep", "Osmaniye"],
+    "latitude" : 	36.718399,
+    "longitude" : 37.12122
+  },
+  {
+    "cityName": "Osmaniye",
+    "plateCode": "80",
+    "neighbours": ["Hatay", "Gaziantep", "Kahramanmaraş", "Adana"],
+    "latitude" : 37.213026,
+    "longitude" :36.176261
+  },
+  {
+    "cityName": "Düzce",
+    "plateCode": "81",
+    "neighbours": ["Bolu", "Zonguldak", "Karabük"],
+    "latitude" : 	40.843849,
+    "longitude" : 31.15654
+  }
+]
